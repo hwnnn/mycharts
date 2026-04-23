@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  myfirst-api-server:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-04-23T11:37:33.854372+09:00"
+    description: A simple Helm chart for learning (Kubernetes API server deployment)
+    digest: 940ff412d5d3084c8def569be711113a26a27bcad32568b15807e62d4b0c4c17
+    name: myfirst-api-server
+    type: application
+    urls:
+    - https://hwnnn.github.io/mycharts/myfirst-api-server-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2026-04-23T11:37:33.854027+09:00"
+    description: A simple Helm chart for learning (Kubernetes API server deployment)
+    digest: 50275ff088ad0e1230c3371bc9f487ad526a42f62e77f564d611bc8a63bb33c1
+    name: myfirst-api-server
+    type: application
+    urls:
+    - https://hwnnn.github.io/mycharts/myfirst-api-server-0.0.1.tgz
+    version: 0.0.1
+generated: "2026-04-23T11:37:33.853104+09:00"
